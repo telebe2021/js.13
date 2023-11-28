@@ -67,9 +67,10 @@
         font-family: monospace;
         font-size: 20px;
         background-color: #1e30f3;
-        background: -webkit-linear-gradient(315deg, #1e30f3 0%, #e21e80 100%);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
+        background: linear-gradient(315deg, #1e30f3 0%, #e21e80 100%);
+        color:  white;
+        padding: 5px;
+        border-radius: 10px;
     }
     p{
         font-family:serif;
